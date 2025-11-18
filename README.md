@@ -78,4 +78,27 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
+Train the Model:
+```bash
+python train_model.py
+```
+
+Run Inference:
+```bash
+python app.py
+```
+
+Using the Notebook:
+```
+jupyter notebook rl-project.ipynb
+```
+
+Future Improvements:
+
+-Add LSTM-based agent for time-series modeling
+-Improve reward shaping for more stable training
+-Integrate with real-time stock APIs
+-Add hyperparameter tuning
+-Support multiple environments and asset classes
