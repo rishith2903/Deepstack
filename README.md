@@ -97,8 +97,8 @@ jupyter notebook rl-project.ipynb
 
 Future Improvements:
 
--Add LSTM-based agent for time-series modeling
--Improve reward shaping for more stable training
--Integrate with real-time stock APIs
--Add hyperparameter tuning
--Support multiple environments and asset classes
+- Add LSTM-based agent for time-series modeling
+- Improve reward shaping for more stable training
+- Integrate with real-time stock APIs
+- Add hyperparameter tuning
+- Support multiple environments and asset classes
